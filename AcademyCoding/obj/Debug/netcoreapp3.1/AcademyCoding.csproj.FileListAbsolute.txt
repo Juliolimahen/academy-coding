@@ -1,0 +1,363 @@
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.exe
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csprojAssemblyReference.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfoInputs.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfo.cs
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\OSExtensions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CommandLine.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Iced.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Perfolizer.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CopyComplete
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CsvHelper.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.deps.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.dev.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.genruntimeconfig.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Stripe.net.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CoreCompileInputs.cache
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\OSExtensions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.exe
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.deps.json
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.json
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.dev.json
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.pdb
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Iced.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Perfolizer.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csprojAssemblyReference.cache
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfoInputs.cache
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfo.cs
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CopyComplete
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.pdb
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.genruntimeconfig.cache
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlusEnumerable.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TI_NET_PC\Downloads\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csprojAssemblyReference.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfoInputs.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfo.cs
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CoreCompileInputs.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\OSExtensions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.exe
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.deps.json
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.json
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.dev.json
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CommandLine.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CsvHelper.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlus.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlusEnumerable.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Iced.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Perfolizer.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Stripe.net.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CopyComplete
+G:\Meu Drive\AcademyCoding\AcademyCoding-20201103T135239Z-001\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.genruntimeconfig.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\OSExtensions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.exe
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.deps.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.runtimeconfig.dev.json
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CommandLine.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\CsvHelper.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlus.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\EPPlusEnumerable.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Iced.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Perfolizer.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\Stripe.net.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csprojAssemblyReference.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfoInputs.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.AssemblyInfo.cs
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CoreCompileInputs.cache
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.csproj.CopyComplete
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.dll
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.pdb
+G:\Meu Drive\AcademyCoding\AcademyCoding\AcademyCoding\AcademyCoding\obj\Debug\netcoreapp3.1\AcademyCoding.genruntimeconfig.cache
